@@ -1,6 +1,8 @@
 ###  👋 Hi there, I'm Vidit
 
-- Looking for full-time opportunities.
+- ⚡⚡ Looking for full-time opportunities.
+- 🔬 Worked on object detection, domain adaptation, and vision-language models
+- 🎓 Final year PhD student 
 
 <!--
 **vidit09/vidit09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
